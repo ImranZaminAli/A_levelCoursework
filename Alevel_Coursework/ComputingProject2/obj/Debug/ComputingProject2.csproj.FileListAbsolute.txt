@@ -1,0 +1,325 @@
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\ComputingProject2.exe.config
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\ComputingProject2.exe
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\ComputingProject2.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.csprojAssemblyReference.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.ErrorForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.Form1.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.LoginForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.Properties.Resources.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.csproj.GenerateResource.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.csproj.CoreCompileInputs.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.csproj.CopyComplete
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.exe
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\SQLite.Designer.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\EnvDTE.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\stdole.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\SQLite.Designer.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.RegisterForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Core.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Microsoft.OneDrive.Sdk.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Core.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.StudentMainMenu.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.csproj.ResolveComReference.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.CreateSetForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject2\ComputingProject2\obj\Debug\ComputingProject2.EditSetForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe.config
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.OneDrive.Sdk.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\SQLite.Designer.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\EnvDTE.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\stdole.dll
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\SQLite.Designer.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csprojAssemblyReference.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.ResolveComReference.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.CreateSetForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.EditSetForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ErrorForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.Form1.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LoginForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.StudentMainMenu.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.Properties.Resources.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RegisterForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.GenerateResource.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CoreCompileInputs.cache
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CopyComplete
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.exe
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.pdb
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ConnForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.SndReqForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ViewReqForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveConnForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherConn.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherMainMenu.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.MngeStudentsForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveStudentForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LearnForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ReviseForm.resources
+C:\Users\Imran Zamin Ali\Documents\Visual Studio 2017\Projects\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TestForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe.config
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.pdb
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.OneDrive.Sdk.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\EnvDTE.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\stdole.dll
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.pdb
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.xml
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.xml
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\SQLite.Designer.pdb
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.xml
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csprojAssemblyReference.cache
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.ResolveComReference.cache
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ConnForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.CreateSetForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.EditSetForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ErrorForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LearnForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LoginForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.MngeStudentsForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveConnForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveStudentForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ReviseForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.SndReqForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.StudentMainMenu.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.Properties.Resources.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RegisterForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherConn.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherMainMenu.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TestForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ViewReqForm.resources
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.GenerateResource.cache
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CopyComplete
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.exe
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.pdb
+C:\Users\iramp\source\repos\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.WelcomeForm.resources
+I:\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe.config
+I:\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe
+I:\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.pdb
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.PlatformServices.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.Graph.Core.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.OneDrive.Sdk.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\EnvDTE.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\stdole.dll
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.pdb
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.xml
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.pdb
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.xml
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.pdb
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.xml
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.pdb
+I:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.xml
+I:\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.xml
+I:\ComputingProject3\ComputingProject2\bin\Debug\SQLite.Designer.pdb
+I:\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.xml
+I:\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll.config
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csprojAssemblyReference.cache
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.ResolveComReference.cache
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ConnForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.CreateSetForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.EditSetForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ErrorForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.WelcomeForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LearnForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LoginForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.MngeStudentsForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveConnForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveStudentForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ReviseForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.SndReqForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.StudentMainMenu.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.Properties.Resources.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RegisterForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherConn.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherMainMenu.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TestForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ViewReqForm.resources
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.GenerateResource.cache
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CoreCompileInputs.cache
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CopyComplete
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.exe
+I:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.pdb
+E:\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe.config
+E:\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe
+E:\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.pdb
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.PlatformServices.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.Graph.Core.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.OneDrive.Sdk.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\EnvDTE.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\stdole.dll
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.pdb
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.xml
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.pdb
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.xml
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.pdb
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.xml
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.xml
+E:\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.xml
+E:\ComputingProject3\ComputingProject2\bin\Debug\SQLite.Designer.pdb
+E:\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.xml
+E:\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll.config
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csprojAssemblyReference.cache
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.ResolveComReference.cache
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ConnForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.CreateSetForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.EditSetForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ErrorForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.WelcomeForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LearnForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LoginForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.MngeStudentsForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveConnForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveStudentForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ReviseForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.SndReqForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.StudentMainMenu.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.Properties.Resources.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RegisterForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherConn.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherMainMenu.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TestForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ViewReqForm.resources
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.GenerateResource.cache
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CopyComplete
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.exe
+E:\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe.config
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.exe
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\ComputingProject2.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.OneDrive.Sdk.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\EnvDTE.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\stdole.dll
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.xml
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Core.xml
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\SQLite.Designer.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.xml
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csprojAssemblyReference.cache
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.ResolveComReference.cache
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ConnForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.CreateSetForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.EditSetForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.WelcomeForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LearnForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.LoginForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.MngeStudentsForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveConnForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RemoveStudentForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ReviseForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.SndReqForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.StudentMainMenu.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.Properties.Resources.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.RegisterForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherConn.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TeacherMainMenu.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.TestForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.ViewReqForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.GenerateResource.cache
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CopyComplete
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.exe
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.pdb
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.MessageForm.resources
+C:\Users\izami\Documents\Visual Studio 2019\ComputingProject3\ComputingProject2\obj\Debug\ComputingProject2.csproj.CoreCompileInputs.cache
